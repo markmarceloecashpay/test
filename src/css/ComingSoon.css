@@ -1,0 +1,22 @@
+.comming-soon-container { 
+  height: 100vh;
+  position: relative
+}
+  
+.comming-soon-container-child {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.coming-soon-title { 
+  font-weight: bold;
+  font-size: 60px;
+}
+
+.coming-soon-subtitle { 
+  font-size: 15px;
+}

@@ -1,0 +1,67 @@
+[
+    {
+      "title": "ACAI BERRY",
+      "desc": "mixed-fruit drink supplement filled with high source of organic minerals and has a powerful blend of fruits and nutrients for the body's daily needs.",
+      "price": "2,070 SRP"
+    },
+    {
+      "title": "L-GLUTATHIONE",
+      "desc": "gluta-dietary supplement capsule that consists of one glutathione with an added sulfhydryl group. It improves the immune system and protects the body from free radical damage. It also helps to flush out liver toxins which results in a whiter skin tone and more energy. Benefits: Effectively lightens the skin and eliminates free radicals that cause cell damage. It also strengthens the immune system and detoxifies the body.",
+      "price": "2,895 SRP"
+    },
+    {
+      "title": "ABSORBENT CEE",
+      "desc": "provides a multi wide of essential functions in our body system such as strong immunity, absorption of iron, growth and repair of all body tissues, prevent cardiovascular problem and maintenance of healthy joints and blood vessels. Nutrition Facts: Ascorbic Acid, Zinc & Minerals. Vitamin C (Ascorbic Acid), helps in boosting the immune resistance. Zinc, antioxidant minerals that supports the immune system; and Minerals, helps reduce damage to the body.",
+      "price": "750 SRP"
+    },
+    {
+      "title": "BARLEY JUICE",
+      "desc": "helps in boosting body energy and immunity, detoxifying liver, preventing signs of aging, prevents hypertension and diabetes, regulates blood pressure, improves good cholesterol levels and sharpens memory. Nutrition Facts: Barley, Moringa, and Stevia. Barley, to boosts the energy levels and immunity of the body. Moringa, to fight infection and other diseases. Stevia, to regulates blood sugar and improves bone health.",
+      "price": "750 SRP"
+    },
+    {
+      "title": "BUAH MERRAH",
+      "desc": "composed of 7 supernatural antioxidants that will help fight cancer cells and detoxify toxins. It is perfect as your daily anti-oxidant support on the body because it has no sugar and preservatives. Nutrition Facts: Acai Berry, to improves skin health. Mangosteen, to reduces calories and cholesterol. Moringa, to boosts the immune system. Barley, to prevents heart disease. Guyabano, to keeps the bone healthy, and Wheatgrass, to improves digestion.",
+      "price": "450 SRP"
+    },
+    {
+      "title": "GARCINIA CAMBOGIA",
+      "desc": "helps in boosting the immune function of the body, lowers blood cholesterol, and increases the energy levels and body hormones. It is perfect in boosting both metabolism and body energy. Nutrition Facts: Vitamins, Citric Acid, Dextrose Powder and Dalandan Natural Flavor (Citrus Aurantium).",
+      "price": "450 SRP"
+    },
+    {
+      "title": "TURMERIC TEA",
+      "desc": "natural tea and powerful immune booster. It contains high levels of antioxidants and anti-inflammatory properties. It is good in our body because it gives 11 natural ingredients to strengthen the body’s immune system and keeping the body healthy. Nutrition Facts: Turmeric Extract, Ginger Extract, Ashitaba Extract, Honey Powder, Leaf, Peppermint, Gotukala, Bittermelon, Lemon Grass, Sambong, and Banaba.",
+      "price": "253 SRP"
+    },
+    {
+      "title": "MANGOSTEEN CHOCO",
+      "desc": "natural choco powder drink that contains Moringa – made with 100% natural mangosteen extract and is sweetened by Stevia – a zero-calorie sweetener with various health benefits. Nutrition Facts: Mangosteen boosts the immune system. Moringa lowers blood sugar levels. Cocoa maintains a healthy circulatory system. And Skimmed Milk Powder, rich in protein and minerals.",
+      "price": "200 SRP"
+    },
+    {
+      "title": "MANGOSTEEN COFFEE",
+      "desc": "natural powder drink that has a sweet coffee taste from Stevia as one of its natural ingredients and has a potent source of antioxidant blended with Moringa leaf powder which gives an extra source of nutrients.",
+      "price": "198 SRP"
+    },
+    {
+      "title": "XTRA CHARGE",
+      "desc": "food supplement for men that is composed of all natural and safe ingredients which aims to provide health benefits such as improves sexual function in men, strengthens stamina, prevents premature ejaculation and increases level of libido and testosterone production.",
+      "price": "999 SRP"
+    },
+    {
+      "title": "DETOX",
+      "desc": "unique flavored juice drink that is filled with all natural ingredients that can detoxifies the body, burn fats, and cleanses colon by flushing out the toxic substance in the body and can increases the chance of optimum health.",
+      "price": "800 SRP"
+    },
+    {
+      "title": "ARCTIC C",
+      "desc": "blend of Omega 3, 6 and 9 which contain essential fatty acids –EPA and DHA. Derived from the tissues of oily fish that can contributes to the healthy function of the heart and can normal the maintenance of the brain.",
+      "price": "750 SRP"
+    },
+    {
+      "title": "PRIMESHAPE",
+      "desc": "coffee mix that is composed with pure natural herbs and herbal extracts: Garcinia Cambogia, L-Carnitine, Green Tea Extract, Mangosteen and Stevia that is effectively formulated for weight loss.",
+      "price": "143 SRP"
+    }
+  ]
